@@ -66,7 +66,7 @@
           <mxGeometry x="262.5" y="1050" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-16" value="8. 分支决策&#xa;选择未赋值变量，先尝试赋值为真" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="301.5" y="1120" width="182" height="62" as="geometry" />
+          <mxGeometry x="301.5" y="1148" width="182" height="62" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-17" value="9. 回溯&#xa;分支失败则撤销赋值&#xa;尝试另一分支" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="302.25" y="1210" width="178.5" height="58" as="geometry" />
@@ -118,10 +118,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-30" value="满足" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R7rbfkdddQXw1z64sriY-18" target="R7rbfkdddQXw1z64sriY-19">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0115" y="-14" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="281" y="1658" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-31" value="冲突" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R7rbfkdddQXw1z64sriY-18" target="R7rbfkdddQXw1z64sriY-20">
