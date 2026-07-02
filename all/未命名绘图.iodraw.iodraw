@@ -52,7 +52,7 @@
           <mxGeometry x="174" y="20" width="55" height="34" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-14" value="输入数组 A" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="132" y="104" width="139" height="49" as="geometry" />
+          <mxGeometry x="132" y="80" width="139" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-15" value="调用 DPLL" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="135" y="895" width="132" height="49" as="geometry" />
