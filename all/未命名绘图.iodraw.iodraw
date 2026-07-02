@@ -19,13 +19,13 @@
           <mxGeometry x="230" y="580" width="320" height="370" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-3" value="1. 定义布尔变量&#xa;定义 n 平方个变量 xij&#xa;含义：元素 i 放在位置 j" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="R7rbfkdddQXw1z64sriY-2">
-          <mxGeometry x="50" y="21.142857142857142" width="220" height="32.419047619047625" as="geometry" />
+          <mxGeometry x="48.53" y="30" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-4" value="2. 生成行约束&#xa;每个元素恰好放一个位置&#xa;至少：xi0 OR xi1 OR ... OR xi,n-1&#xa;至多：NOT xi,j1 OR NOT xi,j2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="R7rbfkdddQXw1z64sriY-2">
-          <mxGeometry x="65.01" y="63.42857142857143" width="190" height="56.38095238095238" as="geometry" />
+          <mxGeometry x="65" y="89.99857142857144" width="190" height="56.38095238095238" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-5" value="3. 生成列约束&#xa;每个位置恰好放一个元素&#xa;至少：x0j OR x1j OR ... OR xn-1,j&#xa;至多：NOT xi1,j OR NOT xi2,j" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="R7rbfkdddQXw1z64sriY-2">
-          <mxGeometry x="56.46" y="133.9047619047619" width="207.07" height="49.33333333333333" as="geometry" />
+          <mxGeometry x="56.46" y="160.0047619047619" width="207.07" height="49.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-6" value="4. 生成有序约束&#xa;保证输出序列非递减&#xa;若 Ai1 &amp;gt; Ai2&#xa;禁止 xi1,j1 与 xi2,j2 同时为真" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="R7rbfkdddQXw1z64sriY-2">
           <mxGeometry x="53.53" y="220" width="210" height="62.67" as="geometry" />
