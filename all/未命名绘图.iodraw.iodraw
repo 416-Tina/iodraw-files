@@ -61,10 +61,10 @@
           <mxGeometry x="139" y="560" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-17" value="分支决策" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="139" y="1092" width="124" height="49" as="geometry" />
+          <mxGeometry x="140" y="650" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-18" value="回溯" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="155" y="1190" width="92" height="49" as="geometry" />
+          <mxGeometry x="155" y="720" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-19" value="可满足?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="150" y="1289" width="103" height="103" as="geometry" />
