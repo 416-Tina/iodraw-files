@@ -11,7 +11,7 @@
           <mxGeometry x="22" y="796" width="358" height="668" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-3" value="编码阶段" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="90" y="230" width="195" height="260" as="geometry" />
+          <mxGeometry x="104" y="160" width="195" height="260" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-4" value="定义变量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="L5l-KBvACWs_qaxnm0Kp-3">
           <mxGeometry x="35.5" y="20.52399080224834" width="124" height="20.614886731391586" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="43.5" y="111.42517093705136" width="108" height="20.614886731391586" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-7" value="有序约束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="L5l-KBvACWs_qaxnm0Kp-3">
-          <mxGeometry x="34.5" y="154.07639870982746" width="124" height="20.614886731391586" as="geometry" />
+          <mxGeometry x="35.5" y="159.99639870982745" width="124" height="20.614886731391586" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-8" value="输出 CNF" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="L5l-KBvACWs_qaxnm0Kp-3">
           <mxGeometry x="33.5" y="210.00404530744336" width="125" height="20.614886731391586" as="geometry" />
