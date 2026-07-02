@@ -224,7 +224,7 @@
           <mxGeometry x="634" y="2485" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-94" value="单位传播" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="760" y="2485" width="125" height="49" as="geometry" />
+          <mxGeometry x="750" y="2484.5" width="85" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-95" value="分支决策" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1091" y="2485" width="124" height="49" as="geometry" />
