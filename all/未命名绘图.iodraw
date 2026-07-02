@@ -4,8 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="L5l-KBvACWs_qaxnm0Kp-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="L5l-KBvACWs_qaxnm0Kp-23" target="L5l-KBvACWs_qaxnm0Kp-41" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="L5l-KBvACWs_qaxnm0Kp-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="L5l-KBvACWs_qaxnm0Kp-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="119" y="1249" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-24" value="输出结果" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="57" y="1394" width="124" height="49" as="geometry" />
@@ -13,15 +15,10 @@
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-25" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="174" y="1493" width="55" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="L5l-KBvACWs_qaxnm0Kp-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" target="L5l-KBvACWs_qaxnm0Kp-23" edge="1">
+        <mxCell id="L5l-KBvACWs_qaxnm0Kp-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" target="L5l-KBvACWs_qaxnm0Kp-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="119" y="1139" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="L5l-KBvACWs_qaxnm0Kp-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" source="L5l-KBvACWs_qaxnm0Kp-23" target="L5l-KBvACWs_qaxnm0Kp-24" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="119" y="1249" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.07;rounded=0;" parent="1" source="L5l-KBvACWs_qaxnm0Kp-24" target="L5l-KBvACWs_qaxnm0Kp-25" edge="1">
@@ -41,15 +38,6 @@
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-41" value="提取配对" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="57" y="1301" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="L5l-KBvACWs_qaxnm0Kp-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="L5l-KBvACWs_qaxnm0Kp-23" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="119" y="1139" as="sourcePoint" />
-            <mxPoint x="119" y="1301" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="L5l-KBvACWs_qaxnm0Kp-23" value="构建数组" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="57" y="1200" width="124" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
