@@ -63,7 +63,7 @@
           <mxGeometry x="50" y="30" width="220" height="46" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-4" value="2. 生成行约束&#xa;每个元素恰好放一个位置&#xa;至少：xi0 OR xi1 OR ... OR xi,n-1&#xa;至多：NOT xi,j1 OR NOT xi,j2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="R7rbfkdddQXw1z64sriY-2">
-          <mxGeometry x="105.84615384615387" y="151" width="147.69230769230774" height="30" as="geometry" />
+          <mxGeometry x="105.85" y="110" width="164.15" height="71" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-5" value="3. 生成列约束&#xa;每个位置恰好放一个元素&#xa;至少：x0j OR x1j OR ... OR xn-1,j&#xa;至多：NOT xi1,j OR NOT xi2,j" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="R7rbfkdddQXw1z64sriY-2">
           <mxGeometry x="105.84615384615387" y="256" width="147.69230769230774" height="30" as="geometry" />
