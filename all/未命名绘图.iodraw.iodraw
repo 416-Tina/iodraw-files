@@ -57,7 +57,7 @@
           <mxGeometry x="362.5" y="490" width="55" height="34" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-13" value="输入待排序数组 A" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="296.5" y="540" width="187" height="49" as="geometry" />
+          <mxGeometry x="296.5" y="536" width="187" height="24" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-14" value="6. 调用 DPLL 求解器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="343" y="1260" width="97" height="40" as="geometry" />
