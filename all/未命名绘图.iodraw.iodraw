@@ -107,7 +107,7 @@
           <mxGeometry x="262" y="1320" width="260" height="92" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-16" value="8. 分支决策&#xa;选择未赋值变量，先尝试赋值为真" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="362" y="1400" width="88" height="62" as="geometry" />
+          <mxGeometry x="301.5" y="1430" width="182" height="62" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-17" value="9. 回溯&#xa;分支失败则撤销赋值&#xa;尝试另一分支" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="362" y="1512" width="60" height="30" as="geometry" />
