@@ -8,10 +8,10 @@
           <mxGeometry x="22" y="1587" width="194" height="197" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-2" value="求解阶段" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="870" width="358" height="668" as="geometry" />
+          <mxGeometry x="22" y="796" width="358" height="668" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-3" value="编码阶段" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="104" y="202" width="195" height="618" as="geometry" />
+          <mxGeometry x="104" y="150" width="195" height="618" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-4" value="定义变量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="L5l-KBvACWs_qaxnm0Kp-3">
           <mxGeometry x="44" y="46" width="124" height="49" as="geometry" />
