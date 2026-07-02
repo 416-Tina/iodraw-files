@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="zolvNEmY3ciXu_XMEJrd">
-    <mxGraphModel dx="1026" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="855" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,7 +67,7 @@
           <mxGeometry x="156" y="720" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-19" value="可满足?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="149.5" y="1289" width="103" height="103" as="geometry" />
+          <mxGeometry x="149.5" y="1280" width="103" height="103" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-20" value="得到赋值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="57" y="1464" width="124" height="49" as="geometry" />
@@ -170,6 +170,29 @@
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-41" value="提取配对" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="57" y="1741" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="L5l-KBvACWs_qaxnm0Kp-43" value="可满足?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="149.5" y="1270" width="103" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="L5l-KBvACWs_qaxnm0Kp-44" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.03;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" source="L5l-KBvACWs_qaxnm0Kp-43" target="L5l-KBvACWs_qaxnm0Kp-46" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="119" y="1417" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L5l-KBvACWs_qaxnm0Kp-45" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.97;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" source="L5l-KBvACWs_qaxnm0Kp-43" target="L5l-KBvACWs_qaxnm0Kp-47" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="284" y="1417" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L5l-KBvACWs_qaxnm0Kp-46" value="得到赋值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="57" y="1454" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="L5l-KBvACWs_qaxnm0Kp-47" value="UNSAT" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="231" y="1454" width="106" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
