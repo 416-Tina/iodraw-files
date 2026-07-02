@@ -72,7 +72,7 @@
           <mxGeometry x="305" y="1230" width="178.5" height="58" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-18" value="10. 判断结果" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="307.5" y="1290" width="170" height="30" as="geometry" />
+          <mxGeometry x="307.5" y="1340" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-19" value="得到可满足赋值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230.75" y="1680" width="172" height="49" as="geometry" />
