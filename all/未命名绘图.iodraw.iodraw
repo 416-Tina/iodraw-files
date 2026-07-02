@@ -70,7 +70,7 @@
           <mxGeometry x="149.5" y="780" width="103" height="103" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-20" value="得到赋值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="57" y="999" width="124" height="51" as="geometry" />
+          <mxGeometry x="50" y="999" width="124" height="51" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-21" value="UNSAT" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="229" y="1000" width="106" height="49" as="geometry" />
