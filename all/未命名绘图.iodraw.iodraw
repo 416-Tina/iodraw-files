@@ -55,7 +55,7 @@
           <mxGeometry x="132" y="80" width="139" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-15" value="调用 DPLL" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="135" y="895" width="132" height="49" as="geometry" />
+          <mxGeometry x="139" y="680" width="132" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-16" value="单位传播" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="139" y="993" width="125" height="49" as="geometry" />
