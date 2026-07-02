@@ -57,22 +57,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-2" value="一、编码阶段" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="327" y="672" width="130" height="525" as="geometry" />
+          <mxGeometry x="327" y="672" width="223" height="525" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-3" value="1. 定义布尔变量&#xa;定义 n 平方个变量 xij&#xa;含义：元素 i 放在位置 j" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="R7rbfkdddQXw1z64sriY-2">
-          <mxGeometry x="43" y="46" width="60" height="30" as="geometry" />
+          <mxGeometry x="73.76153846153846" y="46" width="102.92307692307692" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-4" value="2. 生成行约束&#xa;每个元素恰好放一个位置&#xa;至少：xi0 OR xi1 OR ... OR xi,n-1&#xa;至多：NOT xi,j1 OR NOT xi,j2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="R7rbfkdddQXw1z64sriY-2">
-          <mxGeometry x="43" y="151" width="60" height="30" as="geometry" />
+          <mxGeometry x="73.76153846153846" y="151" width="102.92307692307692" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-5" value="3. 生成列约束&#xa;每个位置恰好放一个元素&#xa;至少：x0j OR x1j OR ... OR xn-1,j&#xa;至多：NOT xi1,j OR NOT xi2,j" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="R7rbfkdddQXw1z64sriY-2">
-          <mxGeometry x="43" y="256" width="60" height="30" as="geometry" />
+          <mxGeometry x="73.76153846153846" y="256" width="102.92307692307692" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-6" value="4. 生成有序约束&#xa;保证输出序列非递减&#xa;若 Ai1 &amp;gt; Ai2&#xa;禁止 xi1,j1 与 xi2,j2 同时为真" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="R7rbfkdddQXw1z64sriY-2">
-          <mxGeometry x="43" y="361" width="60" height="30" as="geometry" />
+          <mxGeometry x="73.76153846153846" y="361" width="102.92307692307692" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-7" value="5. 输出 CNF 公式&#xa;所有子句的合取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="R7rbfkdddQXw1z64sriY-2">
-          <mxGeometry x="43" y="466" width="60" height="30" as="geometry" />
+          <mxGeometry x="73.76153846153846" y="466" width="102.92307692307692" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=-0.02;rounded=0;" edge="1" parent="R7rbfkdddQXw1z64sriY-2" source="R7rbfkdddQXw1z64sriY-3" target="R7rbfkdddQXw1z64sriY-4">
           <mxGeometry relative="1" as="geometry">
