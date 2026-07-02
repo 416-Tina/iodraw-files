@@ -63,7 +63,7 @@
           <mxGeometry x="344" y="1000" width="97" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-15" value="7. 单位传播&#xa;子句只剩一个未赋值文字时强制赋值&#xa;重复直到无新单位子句" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="1060" width="260" height="70" as="geometry" />
+          <mxGeometry x="262.5" y="1050" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-16" value="8. 分支决策&#xa;选择未赋值变量，先尝试赋值为真" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="311" y="1218" width="182" height="62" as="geometry" />
