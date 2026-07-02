@@ -8,7 +8,7 @@
           <mxGeometry x="170" y="1836" width="220" height="160" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-1" value="二、求解阶段" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="158" y="990" width="464" height="360" as="geometry" />
+          <mxGeometry x="158" y="990" width="464" height="340" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R7rbfkdddQXw1z64sriY-2">
           <mxGeometry relative="1" as="geometry">
@@ -63,19 +63,19 @@
           <mxGeometry x="344" y="1000" width="97" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-15" value="7. 单位传播&#xa;子句只剩一个未赋值文字时强制赋值&#xa;重复直到无新单位子句" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="262.5" y="1090" width="260" height="60" as="geometry" />
+          <mxGeometry x="262.5" y="1050" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-16" value="8. 分支决策&#xa;选择未赋值变量，先尝试赋值为真" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="301.5" y="1198" width="182" height="62" as="geometry" />
+          <mxGeometry x="301.5" y="1148" width="182" height="62" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-17" value="9. 回溯&#xa;分支失败则撤销赋值&#xa;尝试另一分支" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="302.25" y="1260" width="178.5" height="58" as="geometry" />
+          <mxGeometry x="302.25" y="1210" width="178.5" height="58" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-18" value="10. 判断结果" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="307.5" y="1340" width="170" height="30" as="geometry" />
+          <mxGeometry x="305.75" y="1280" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-19" value="得到可满足赋值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="196" y="1600" width="172" height="49" as="geometry" />
+          <mxGeometry x="230.75" y="1680" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-20" value="输出 UNSAT&#xa;理论上不会发生" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="417" y="1695" width="172" height="66" as="geometry" />
@@ -117,15 +117,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R7rbfkdddQXw1z64sriY-30" value="满足" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="R7rbfkdddQXw1z64sriY-30" value="满足" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R7rbfkdddQXw1z64sriY-18" target="R7rbfkdddQXw1z64sriY-19">
           <mxGeometry x="0.0115" y="-14" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="233.86" y="1471" />
-              <mxPoint x="223.86" y="1491" />
-              <mxPoint x="284.86" y="1649" />
+              <mxPoint x="281" y="1658" />
             </Array>
-            <mxPoint x="338.14082191780847" y="1350.7260273972604" as="sourcePoint" />
-            <mxPoint x="285.86" y="1591" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
