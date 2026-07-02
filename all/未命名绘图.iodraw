@@ -48,6 +48,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9I9VlfK74meh8vfYa9sW-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L5l-KBvACWs_qaxnm0Kp-14" target="9I9VlfK74meh8vfYa9sW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-14" value="输入数组 A" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="132" y="80" width="139" height="49" as="geometry" />
         </mxCell>
@@ -174,6 +177,9 @@
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-23" value="构建数组" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="57" y="1200" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="9I9VlfK74meh8vfYa9sW-1" value="输入数组 A" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="132" y="209" width="139" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
