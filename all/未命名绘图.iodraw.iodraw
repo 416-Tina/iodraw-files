@@ -46,7 +46,7 @@
           <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-0" value="三、解码阶段" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="216" y="1836" width="130" height="160" as="geometry" />
+          <mxGeometry x="190" y="1836" width="156" height="160" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-1" value="二、求解阶段" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1247" width="464" height="539" as="geometry" />
