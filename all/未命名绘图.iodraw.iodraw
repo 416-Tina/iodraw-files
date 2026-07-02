@@ -110,7 +110,7 @@
           <mxGeometry x="301.5" y="1430" width="182" height="62" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-17" value="9. 回溯&#xa;分支失败则撤销赋值&#xa;尝试另一分支" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="362" y="1512" width="60" height="30" as="geometry" />
+          <mxGeometry x="290" y="1512" width="150" height="58" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-18" value="10. 判断结果" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="377" y="1592" width="30" height="30" as="geometry" />
