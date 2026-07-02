@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-1" value="解码阶段" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="22" y="1074" width="194" height="197" as="geometry" />
+          <mxGeometry x="22" y="1075" width="194" height="195" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-2" value="求解阶段" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="22" y="450" width="358" height="260" as="geometry" />
