@@ -8,7 +8,7 @@
           <mxGeometry x="170" y="1836" width="220" height="160" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-1" value="二、求解阶段" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="990" width="464" height="539" as="geometry" />
+          <mxGeometry x="170" y="990" width="464" height="440" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R7rbfkdddQXw1z64sriY-2">
           <mxGeometry relative="1" as="geometry">
@@ -69,10 +69,10 @@
           <mxGeometry x="301.5" y="1150" width="182" height="62" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-17" value="9. 回溯&#xa;分支失败则撤销赋值&#xa;尝试另一分支" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="303.25" y="1280" width="178.5" height="58" as="geometry" />
+          <mxGeometry x="301.5" y="1230" width="178.5" height="58" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-18" value="10. 判断结果" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="307" y="1592" width="170" height="30" as="geometry" />
+          <mxGeometry x="307.5" y="1360" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-19" value="得到可满足赋值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="195" y="1703" width="172" height="49" as="geometry" />
