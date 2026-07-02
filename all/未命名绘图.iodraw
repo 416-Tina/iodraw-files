@@ -10,9 +10,6 @@
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-2" value="求解阶段" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="22" y="450" width="358" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="L5l-KBvACWs_qaxnm0Kp-16" value="单位传播" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="138.5" y="520" width="125" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-17" value="分支决策" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="139.5" y="600" width="124" height="40" as="geometry" />
         </mxCell>
@@ -40,15 +37,10 @@
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-25" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="174" y="1493" width="55" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="L5l-KBvACWs_qaxnm0Kp-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" target="L5l-KBvACWs_qaxnm0Kp-16" edge="1">
+        <mxCell id="L5l-KBvACWs_qaxnm0Kp-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" target="L5l-KBvACWs_qaxnm0Kp-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="201.5" y="500" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="L5l-KBvACWs_qaxnm0Kp-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="L5l-KBvACWs_qaxnm0Kp-16" target="L5l-KBvACWs_qaxnm0Kp-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="201" y="550" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" source="L5l-KBvACWs_qaxnm0Kp-17" target="L5l-KBvACWs_qaxnm0Kp-18" edge="1">
@@ -97,12 +89,6 @@
             <Array as="points">
               <mxPoint x="284" y="1468" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="L5l-KBvACWs_qaxnm0Kp-38" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" parent="1" target="L5l-KBvACWs_qaxnm0Kp-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="201" y="420" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-39" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" parent="1" source="L5l-KBvACWs_qaxnm0Kp-20" target="L5l-KBvACWs_qaxnm0Kp-1" edge="1">
