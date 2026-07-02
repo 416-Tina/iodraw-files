@@ -178,6 +178,12 @@
         <mxCell id="9I9VlfK74meh8vfYa9sW-1" value="输入数组 A" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="132" y="209" width="139" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="9I9VlfK74meh8vfYa9sW-4" value="输出 CNF" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="137" y="269.3891585760518" width="125" height="20.614886731391586" as="geometry" />
+        </mxCell>
+        <mxCell id="9I9VlfK74meh8vfYa9sW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L5l-KBvACWs_qaxnm0Kp-8" target="9I9VlfK74meh8vfYa9sW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
