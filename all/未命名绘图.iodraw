@@ -10,9 +10,6 @@
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-2" value="求解阶段" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="22" y="450" width="358" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="L5l-KBvACWs_qaxnm0Kp-15" value="调用 DPLL" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="135.5" y="470" width="132" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-16" value="单位传播" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="138.5" y="520" width="125" height="30" as="geometry" />
         </mxCell>
@@ -43,9 +40,10 @@
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-25" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="174" y="1493" width="55" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="L5l-KBvACWs_qaxnm0Kp-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" source="L5l-KBvACWs_qaxnm0Kp-15" target="L5l-KBvACWs_qaxnm0Kp-16" edge="1">
+        <mxCell id="L5l-KBvACWs_qaxnm0Kp-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" target="L5l-KBvACWs_qaxnm0Kp-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="201.5" y="500" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="L5l-KBvACWs_qaxnm0Kp-16" target="L5l-KBvACWs_qaxnm0Kp-17" edge="1">
@@ -123,14 +121,6 @@
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-23" value="构建数组" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="57" y="1200" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="9I9VlfK74meh8vfYa9sW-4" value="输出 CNF" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="137" y="269.3891585760518" width="125" height="20.614886731391586" as="geometry" />
-        </mxCell>
-        <mxCell id="9I9VlfK74meh8vfYa9sW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="9I9VlfK74meh8vfYa9sW-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="199.5" y="370.00404530744333" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
