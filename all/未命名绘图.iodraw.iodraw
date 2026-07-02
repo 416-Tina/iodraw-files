@@ -75,7 +75,7 @@
           <mxGeometry x="305.75" y="1280" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-19" value="得到可满足赋值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="195" y="1703" width="172" height="49" as="geometry" />
+          <mxGeometry x="230.75" y="1680" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-20" value="输出 UNSAT&#xa;理论上不会发生" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="417" y="1695" width="172" height="66" as="geometry" />
