@@ -14,7 +14,7 @@
           <mxGeometry x="104" y="150" width="195" height="618" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-4" value="定义变量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="L5l-KBvACWs_qaxnm0Kp-3">
-          <mxGeometry x="44" y="46" width="124" height="49" as="geometry" />
+          <mxGeometry x="35.5" y="30" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-5" value="行约束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="L5l-KBvACWs_qaxnm0Kp-3">
           <mxGeometry x="52" y="169" width="108" height="49" as="geometry" />
