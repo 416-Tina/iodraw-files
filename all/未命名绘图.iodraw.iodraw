@@ -8,7 +8,7 @@
           <mxGeometry x="22" y="1074" width="194" height="197" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-2" value="求解阶段" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="22" y="450" width="358" height="330" as="geometry" />
+          <mxGeometry x="22" y="450" width="358" height="290" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-3" value="编码阶段" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="103.5" y="160" width="195" height="260" as="geometry" />
@@ -61,10 +61,10 @@
           <mxGeometry x="138.5" y="520" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-17" value="分支决策" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="140" y="630" width="124" height="40" as="geometry" />
+          <mxGeometry x="138.5" y="610" width="124" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-18" value="回溯" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="152.5" y="690" width="97" height="49" as="geometry" />
+          <mxGeometry x="152.5" y="690" width="97" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-19" value="可满足?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="149.5" y="840" width="103" height="103" as="geometry" />
