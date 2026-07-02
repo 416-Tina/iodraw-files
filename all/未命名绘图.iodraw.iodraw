@@ -8,7 +8,7 @@
           <mxGeometry x="170" y="1836" width="220" height="160" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-1" value="二、求解阶段" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="1247" width="464" height="539" as="geometry" />
+          <mxGeometry x="159.5" y="990" width="464" height="539" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R7rbfkdddQXw1z64sriY-2">
           <mxGeometry relative="1" as="geometry">
