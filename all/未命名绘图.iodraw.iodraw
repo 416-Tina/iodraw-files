@@ -60,7 +60,7 @@
           <mxGeometry x="230" y="672" width="320" height="525" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-3" value="1. 定义布尔变量&#xa;定义 n 平方个变量 xij&#xa;含义：元素 i 放在位置 j" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="R7rbfkdddQXw1z64sriY-2">
-          <mxGeometry x="80" y="46" width="190" height="30" as="geometry" />
+          <mxGeometry x="50" y="30" width="220" height="46" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-4" value="2. 生成行约束&#xa;每个元素恰好放一个位置&#xa;至少：xi0 OR xi1 OR ... OR xi,n-1&#xa;至多：NOT xi,j1 OR NOT xi,j2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="R7rbfkdddQXw1z64sriY-2">
           <mxGeometry x="105.84615384615387" y="151" width="147.69230769230774" height="30" as="geometry" />
