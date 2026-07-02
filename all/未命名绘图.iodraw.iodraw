@@ -125,7 +125,7 @@
           <mxGeometry x="215" y="1850" width="130" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-22" value="12. 构建排序结果&#xa;按位置 j 依次填入对应元素" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="251" y="1941" width="89" height="30" as="geometry" />
+          <mxGeometry x="200" y="1930" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-23" value="输出排序后的数组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="187" y="2046" width="188" height="49" as="geometry" />
