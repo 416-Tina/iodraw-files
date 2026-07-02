@@ -171,29 +171,6 @@
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-41" value="提取配对" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="57" y="1741" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="L5l-KBvACWs_qaxnm0Kp-43" value="可满足?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="149.5" y="1270" width="103" height="103" as="geometry" />
-        </mxCell>
-        <mxCell id="L5l-KBvACWs_qaxnm0Kp-44" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.03;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" source="L5l-KBvACWs_qaxnm0Kp-43" target="L5l-KBvACWs_qaxnm0Kp-46" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="119" y="1417" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="L5l-KBvACWs_qaxnm0Kp-45" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.97;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" source="L5l-KBvACWs_qaxnm0Kp-43" target="L5l-KBvACWs_qaxnm0Kp-47" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="284" y="1417" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="L5l-KBvACWs_qaxnm0Kp-46" value="得到赋值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="57" y="1454" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="L5l-KBvACWs_qaxnm0Kp-47" value="UNSAT" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="231" y="1454" width="106" height="49" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
