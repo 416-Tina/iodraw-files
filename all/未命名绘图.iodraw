@@ -75,7 +75,7 @@
           <mxGeometry x="941" y="616" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9I9VlfK74meh8vfYa9sW-26" value="回溯" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1115" y="616" width="92" height="49" as="geometry" />
+          <mxGeometry x="1149" y="616" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9I9VlfK74meh8vfYa9sW-27" value="可满足?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1303" y="589" width="103" height="103" as="geometry" />
