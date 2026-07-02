@@ -14,13 +14,13 @@
           <mxGeometry x="90" y="240" width="195" height="380" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-4" value="定义变量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="L5l-KBvACWs_qaxnm0Kp-3">
-          <mxGeometry x="35.5" y="18.446601941747574" width="124" height="30.129449838187703" as="geometry" />
+          <mxGeometry x="35.5" y="29.996601941747574" width="124" height="30.129449838187703" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-5" value="行约束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="L5l-KBvACWs_qaxnm0Kp-3">
-          <mxGeometry x="43" y="61.48867313915858" width="108" height="30.129449838187703" as="geometry" />
+          <mxGeometry x="42" y="109.99867313915857" width="108" height="30.129449838187703" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-6" value="列约束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="L5l-KBvACWs_qaxnm0Kp-3">
-          <mxGeometry x="43" y="104.53074433656958" width="108" height="30.129449838187703" as="geometry" />
+          <mxGeometry x="42.5" y="174.9307443365696" width="108" height="30.129449838187703" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-7" value="有序约束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="L5l-KBvACWs_qaxnm0Kp-3">
           <mxGeometry x="34" y="260.0028155339806" width="124" height="30.129449838187703" as="geometry" />
