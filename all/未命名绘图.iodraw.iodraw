@@ -122,7 +122,7 @@
           <mxGeometry x="417" y="1695" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-21" value="11. 提取赋值配对&#xa;找出所有 xij = true 的配对" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="251" y="1861" width="60" height="30" as="geometry" />
+          <mxGeometry x="215" y="1850" width="130" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-22" value="12. 构建排序结果&#xa;按位置 j 依次填入对应元素" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="251" y="1941" width="60" height="30" as="geometry" />
