@@ -58,10 +58,10 @@
           <mxGeometry x="135.5" y="470" width="132" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-16" value="单位传播" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="138.5" y="540" width="125" height="49" as="geometry" />
+          <mxGeometry x="138.5" y="520" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-17" value="分支决策" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="140" y="630" width="124" height="49" as="geometry" />
+          <mxGeometry x="140" y="630" width="124" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L5l-KBvACWs_qaxnm0Kp-18" value="回溯" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="156" y="720" width="92" height="49" as="geometry" />
