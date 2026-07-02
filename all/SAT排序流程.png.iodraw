@@ -177,7 +177,7 @@
           <mxGeometry x="709" y="2387" width="1019" height="244" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-81" value="编码阶段" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="464" y="2200" width="195" height="618" as="geometry" />
+          <mxGeometry x="394" y="2200" width="195" height="618" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-82" value="定义变量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="R7rbfkdddQXw1z64sriY-81">
           <mxGeometry x="44" y="46" width="124" height="49" as="geometry" />
