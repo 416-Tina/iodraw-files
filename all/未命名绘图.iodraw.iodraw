@@ -60,16 +60,16 @@
           <mxGeometry x="296.5" y="536" width="187" height="24" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-14" value="6. 调用 DPLL 求解器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="344" y="1000" width="97" height="40" as="geometry" />
+          <mxGeometry x="345.75" y="1030" width="97" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-15" value="7. 单位传播&#xa;子句只剩一个未赋值文字时强制赋值&#xa;重复直到无新单位子句" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="262.5" y="1060" width="260" height="70" as="geometry" />
+          <mxGeometry x="264.25" y="1100" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-16" value="8. 分支决策&#xa;选择未赋值变量，先尝试赋值为真" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="301.5" y="1150" width="182" height="62" as="geometry" />
+          <mxGeometry x="303.25" y="1210" width="182" height="62" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-17" value="9. 回溯&#xa;分支失败则撤销赋值&#xa;尝试另一分支" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="303.25" y="1290" width="178.5" height="58" as="geometry" />
+          <mxGeometry x="305" y="1290" width="178.5" height="58" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-18" value="10. 判断结果" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="307.5" y="1360" width="170" height="30" as="geometry" />
