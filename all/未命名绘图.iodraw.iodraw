@@ -25,7 +25,7 @@
           <mxGeometry x="65.01" y="90" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-5" value="3. 生成列约束&#xa;每个位置恰好放一个元素&#xa;至少：x0j OR x1j OR ... OR xn-1,j&#xa;至多：NOT xi1,j OR NOT xi2,j" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="R7rbfkdddQXw1z64sriY-2">
-          <mxGeometry x="72.92999999999999" y="224.5" width="174.15" height="76" as="geometry" />
+          <mxGeometry x="56.46" y="190" width="207.07" height="70" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-6" value="4. 生成有序约束&#xa;保证输出序列非递减&#xa;若 Ai1 &amp;gt; Ai2&#xa;禁止 xi1,j1 与 xi2,j2 同时为真" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="R7rbfkdddQXw1z64sriY-2">
           <mxGeometry x="77.92999999999999" y="348" width="164.15" height="61" as="geometry" />
