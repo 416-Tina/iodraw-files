@@ -120,6 +120,8 @@
         <mxCell id="R7rbfkdddQXw1z64sriY-30" value="满足" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R7rbfkdddQXw1z64sriY-18" target="R7rbfkdddQXw1z64sriY-19">
           <mxGeometry x="0.0115" y="-14" relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="230" y="1480" />
+              <mxPoint x="220" y="1500" />
               <mxPoint x="281" y="1658" />
             </Array>
             <mxPoint as="offset" />
