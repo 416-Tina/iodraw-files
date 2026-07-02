@@ -101,10 +101,10 @@
           <mxGeometry x="296.5" y="574" width="187" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-14" value="6. 调用 DPLL 求解器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="362" y="1272" width="108" height="68" as="geometry" />
+          <mxGeometry x="338" y="1260" width="102" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-15" value="7. 单位传播&#xa;子句只剩一个未赋值文字时强制赋值&#xa;重复直到无新单位子句" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="362" y="1352" width="60" height="30" as="geometry" />
+          <mxGeometry x="364" y="1402" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R7rbfkdddQXw1z64sriY-16" value="8. 分支决策&#xa;选择未赋值变量，先尝试赋值为真" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="362" y="1432" width="60" height="30" as="geometry" />
